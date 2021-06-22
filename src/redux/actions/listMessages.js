@@ -1,0 +1,5 @@
+export const MSG_ADD_TO_CART = "Add item to cart succeeded"
+export const MSG_UPDATE_CART = "Update item into card succeeded"
+export const MSG_DELETE_CART = "Delete item succeeded"
+export const MSG_EMPTY_CART = "Your cart is empty"
+export const MSG_WELCOME = "Welcome to shoping online"
